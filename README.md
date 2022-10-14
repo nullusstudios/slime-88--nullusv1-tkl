@@ -6,3 +6,4 @@
 Forked from https://github.com/zykrah/slime88
 
 ## Changes from Slime88
+Exclusively Tsangan bottom row (Slime88 and H88C *should* be compatible, untested). Split left shift, split backspace, and ANSI/ISO support.
