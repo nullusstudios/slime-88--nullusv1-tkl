@@ -1,5 +1,5 @@
 # Nullus V1 TKL PCB
- A F13 Tsangan TKL Hotswap Type-C PCB with ANSI/ISO support, designed in KiCAD 6.0.
+ A F13 Tsangan TKL Hotswap Type-C PCB with ANSI/ISO support for the nullus v1 TKL, designed in KiCAD 6.0.
 
 > NOTE: Below images may be outdated.
 
